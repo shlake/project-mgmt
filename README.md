@@ -1,6 +1,11 @@
 # Welcome to the GitHub Project Management repository
 :tada:
 
+## Sherry's cut-n-paste
+* Markdown cheat sheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
+* Emoji cheat sheet: http://www.webpagefx.com/tools/emoji-cheat-sheet/
+:smirk_cat:
+
 This repository was created as a resource for folks learning how to use GitHub as a collaborative project management tool. :octocat:
 
 Here are a few resources to help you right off the bat:
